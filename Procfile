@@ -1,0 +1,1 @@
+web: gunicorn my_pizza_website_back.wsgi
